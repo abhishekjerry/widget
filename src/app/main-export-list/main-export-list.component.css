@@ -1,0 +1,105 @@
+.export-main-header-ref {
+  padding-bottom: 5px;
+  border-bottom: 0;
+}
+.export-head-ref {
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bold;
+  font-size: 2vw;
+}
+.column-heading {
+  font-weight: bold;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 1.5vw;
+}
+.column-content {
+  padding: 15px 15px 15px 15px;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 1vw;
+  height: 330px;
+  cursor: context-menu;
+}
+.selectedFields {
+  background-color: #d9d9d9;
+  cursor: pointer;
+}
+.arrowButtons {
+  margin-top: 15%;
+  margin-bottom: 15%;
+  align-self: center;
+}
+.arrowButtons div {
+  padding-left: 15%;
+}
+.selectedcard {
+  border-radius: 0px;
+  border-color: #d9d9d9;
+}
+
+hr {
+  border: 0.8px solid #d9d9d9;
+  margin-bottom: 0;
+}
+.column-heading {
+  width: 100%;
+  text-align: center;
+}
+.column-SelectedList {
+  width: 100%;
+  text-align: center;
+  font-size: medium;
+}
+.headingcss {
+  padding: 5px 5px 5px 5px;
+  display: flex;
+}
+
+.totalItems {
+  padding: 0;
+}
+.selectedItems {
+  padding: 0;
+  margin-left: 20px;
+}
+.export-btn-id {
+  background-color: #ffed00;
+  font-weight: 600;
+  margin-top: 5%;
+  margin-left: 87.8%;
+}
+.export-model-content {
+  display: flex;
+  flex-direction: column;
+  width: 50rem;
+  pointer-events: auto;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 0px solid rgba(0, 0, 0, 0.2);
+  outline: 0;
+}
+
+hr {
+  margin-top: 0.2rem;
+  border-radius: 5px;
+}
+
+.export-modal-body-content {
+  height: auto;
+}
+.row {
+  display: flex;
+}
+.column {
+  flex: 50%;
+  padding: 10px;
+  height: 300px;
+}
+
+.selectedcard {
+  height: auto;
+  width: auto;
+  margin-left: 4px;
+  border: 2px solid black;
+  padding: 10px;
+  border-radius: 25px;
+}

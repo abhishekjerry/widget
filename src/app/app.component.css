@@ -1,0 +1,9 @@
+.main-body-container {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 14px;
+    margin: 0;
+}
+.main-wrapper {
+    padding-right: 0;
+    margin-top: 3rem;
+}

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="37" height="24" viewBox="0 0 37 24">
+  <g id="Group_1905" data-name="Group 1905" transform="translate(-665.879 -486)">
+    <rect id="Rectangle_2118" data-name="Rectangle 2118" width="37" height="24" rx="5" transform="translate(665.878 486)"/>
+    <g id="Double_Chevron_Right" transform="translate(671.824 485.009)">
+      <path id="Path_507" data-name="Path 507" d="M20.16,12.318,16.067,8.167a.589.589,0,0,0-.839,0,.6.6,0,0,0,0,.847L18.9,12.742,15.229,16.47a.6.6,0,0,0,0,.847.589.589,0,0,0,.839,0l4.092-4.152A.619.619,0,0,0,20.16,12.318Z" transform="translate(-2.848 0)" fill="#fff"/>
+      <path id="Path_508" data-name="Path 508" d="M13.16,12.318,9.068,8.167a.589.589,0,0,0-.839,0,.6.6,0,0,0,0,.847L11.9,12.742,8.229,16.47a.6.6,0,0,0,0,.847.589.589,0,0,0,.839,0l4.092-4.152A.619.619,0,0,0,13.16,12.318Z" fill="#fff"/>
+    </g>
+  </g>
+</svg>
